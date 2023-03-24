@@ -1,8 +1,8 @@
-import Container from "./styles/navbar/container"
-import HeaderButtons from "./styles/navbar/headerButtons"
-import HeaderButtonsDiv from "./styles/navbar/headerButtons"
+import Container from "../styles/navbar/container"
+import HeaderButtons from "../styles/navbar/headerButtons"
+import HeaderButtonsDiv from "../styles/navbar/headerButtons"
 import {MapPin, ShoppingCart} from 'phosphor-react'
-import coffeeLogo from "./assets/Logo.svg"
+import coffeeLogo from "../assets/Logo.svg"
 
 function Navbar () {
 

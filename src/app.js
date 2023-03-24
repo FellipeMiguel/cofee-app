@@ -1,5 +1,6 @@
 import GlobalStyle from './styles/global'
-import Navbar from './navbar'
+import Navbar from './Components/navbar'
+import Intro from './Components/intro'
 
 function App(){
 
@@ -9,7 +10,7 @@ function App(){
     <>
       <GlobalStyle/>
       <Navbar />
-      <h1>Olá</h1>
+      <Intro />
     </>
   )
 }

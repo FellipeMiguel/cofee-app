@@ -25,5 +25,13 @@ const GlobalStyle = createGlobalStyle`
     max-width: 80rem;
     width: 100%;
   }
+
+  .benefits {
+    display: flex;
+    align-items: center;
+  }
+  .benefits img {
+    margin-right: 0.75rem;
+  }
 `
 export default GlobalStyle
