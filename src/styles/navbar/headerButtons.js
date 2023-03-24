@@ -5,7 +5,7 @@ const HeaderButtons = styled.button`
   align-items: center;
   border: none;
   color: #8047F8;
-  cursor: pointer;
+  cursor: inherit;
   border-radius: 6px;
   display: flex;
   font-size: 0.875em;

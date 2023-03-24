@@ -17,3 +17,8 @@
 </ul><p><code>yarn start</code></p>
 <h2>Status do projeto</h2>
 <p>Em construção.</p>
+<h2>O que falta</h2>
+<ul>
+<li>Adicionar e remover cafés</li>
+<li>Adicionar no carrinho</li>
+</ul>

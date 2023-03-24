@@ -8,7 +8,6 @@ import CoffeesTags from "../../styles/coffees/coffeesTags";
 import CoffeesTitleFooter from "../../styles/coffees/coffeesTitleFooter";
 import CoffeesInput from "./coffeesInput";
 import { ShoppingCart } from "phosphor-react";
-import CoffeeData from "../../coffeeData/coffeeDataList";
 
 function CoffeesCard({coffee}) {
   return (
