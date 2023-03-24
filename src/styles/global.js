@@ -11,6 +11,7 @@ const GlobalStyle = createGlobalStyle`
   body {
     background: #FAFAFA;
     color: #574F4D;
+    margin-bottom: 9.8rem;
   }
 
   body, input, textarea, button{
@@ -30,8 +31,22 @@ const GlobalStyle = createGlobalStyle`
     display: flex;
     align-items: center;
   }
+  
   .benefits img {
     margin-right: 0.75rem;
+  }
+
+  input::-webkit-outer-spin-button,
+  input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+  input[type="number"] {
+    -moz-appearance: textfield;
+  }
+
+  .background-yellow-light {
+    background: #F1E9C9;
   }
 `
 export default GlobalStyle
