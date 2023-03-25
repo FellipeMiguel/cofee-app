@@ -12,7 +12,7 @@
 </ul><ul>
 <li>Reactjs</li>
 </ul><h2>Uso</h2>
-<hr><p>É uma página de uma loja de café.</p><h5>Code Examples</h5><ul>
+<hr><p>É uma página de uma loja de café.</p><h5>Comandos para executar</h5><ul>
 <li>Para executar este projeto em seu dispositivo, baixe o repositório e abra o terminal em seu editor e execute o comando</li>
 </ul><p><code>yarn</code> (para instalar as dependências)</p>
 <p><code>yarn start</code> (para iniciar o projeto)  </p>
